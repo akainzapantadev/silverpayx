@@ -18,7 +18,7 @@
             }
         </script>
       <!-- <button onclick="upload()" class="btn-transparent" type="button" id="button_upload">upload</button> -->
-        <script>
+        <!-- <script>
           function upload(){
             var uploaderName = $('#blogImage').attr('name')
             var uploaderFile = $('#blogImage')[0].files[0]
@@ -28,16 +28,16 @@
             imageUploadFormData.append(uploaderName,uploaderFile,uploaderFileName);
             var upload = backendHandleFormData('upload_file',imageUploadFormData);
           }
-        </script>
+        </script> -->
     </div>
     <img id="blogImagePreview" src="" style="max-width:500px;max-height:400px;" onerror="this.src='https://deconova.eu/wp-content/uploads/2016/02/default-placeholder.png'" src="#" alt="Preview" />
 </div>
 
 
 <!-- load this on other page -->
-<script>
+<!-- <script>
   $(function(){
     $("#upload_view").load("upload_view"); 
   });
-</script>
+</script> -->
 <!-- load this on other page -->
