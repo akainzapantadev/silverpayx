@@ -320,9 +320,9 @@ function displayFooter(){
   '    <div class="row">'+
   ''+
   '      <div class="col-lg-3 col-md-6 footer-contact">'+
-  '        <h3>Spotifyclassie</h3>'+
+  '        <h3>Silverpayx</h3>'+
   '        <p>'+
-  '          <strong>Email:</strong> spotifyclassieofficial@gmail.com<br>'+
+  '          <strong>Email:</strong> silverpayx@gmail.com<br>'+
   '        </p>'+
   '      </div>'+
   ''+
@@ -331,7 +331,7 @@ function displayFooter(){
   '        <ul>'+
   '          <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>'+
   '          <li><i class="bx bx-chevron-right"></i> <a href="#">Features</a></li>'+
-  '          <li><i class="bx bx-chevron-right"></i> <a href="#">Blogs</a></li>'+
+  // '          <li><i class="bx bx-chevron-right"></i> <a href="#">Blogs</a></li>'+
   '          <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>'+
   '          <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>'+
   '        </ul>'+
@@ -358,7 +358,7 @@ function displayFooter(){
   '  <div class="copyright-wrap d-md-flex py-4">'+
   '    <div class="me-md-auto text-center text-md-start">'+
   '      <div class="copyright">'+
-  '        &copy; Copyright <strong><span>Spotifyclassie</span></strong>. All Rights Reserved'+
+  '        &copy; Copyright <strong><span>Silverpayx</span></strong>. All Rights Reserved'+
   '      </div>'+
   '      <div class="credits">'+
   '        <!-- All the links in the footer should remain intact. -->'+
@@ -368,12 +368,12 @@ function displayFooter(){
   '        Template design <a href="https://bootstrapmade.com/">BootstrapMade</a>'+
   '      </div>'+
   '    </div>'+
-  '    <div class="social-links text-center text-md-right pt-3 pt-md-0">'+
-  '      <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>'+
-  '      <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>'+
-  '      <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>'+
-  '      <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>'+
-  '    </div>'+
+  // '    <div class="social-links text-center text-md-right pt-3 pt-md-0">'+
+  // '      <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>'+
+  // '      <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>'+
+  // '      <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>'+
+  // '      <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>'+
+  // '    </div>'+
   '  </div>'+
   ''+
   '</div>'+

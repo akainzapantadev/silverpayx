@@ -15,14 +15,15 @@
     <meta name="author" content="SAFELYPAL-DEV">
     <!-- <meta name="google-site-verification" content=""> -->
 
-    <meta property="og:title" content="Spotifyclassie - Smart Security at your hands">
-    <meta property="og:description" content="Spotifyclassie is a Crypto Wallet Platform where you can trade, earn or simply store your crypto assets with prestige privacy and security.">
+    <meta property="og:title" content="Silverpayx - Better trading experience">
+    <meta property="og:description" content="Silverpayx is a Crypto Wallet Platform where you can trade, earn or simply store your crypto assets with prestige privacy and security.">
     <meta property="og:image" content="">
-    <meta property="og:url" content="spotifyclassie.com">
-    <title class="main-color">Spotifyclassie</title>
+    <meta property="og:url" content="Silverpayx.com">
+    <title class="main-color">Silverpayx</title>
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
+  
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -58,15 +59,17 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
-      <h1 class="logo"><a href="main">Spotifyclassie</a></h1>
+      <h1 class="logo"><a href="main"><img src="assets/img/silverpayx-high-resolution-logo-color-on-transparent-background.png" class="img-fluid animated" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="main">Home</a></li>
-          <li><a class="nav-link scrollto" href="blogs">Blogs</a></li>
-      </nav><!-- .navbar -->
+          <!-- <li><a class="nav-link scrollto active" href="main">Home</a></li>
+          <li><a class="nav-link scrollto" href="blogs">Blogs</a></li> -->
+          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+        </ul> <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
 
     </div>
   </header><!-- End Header -->
@@ -77,12 +80,12 @@
     <div class="container-fluid" data-aos="fade-up">
       <div class="row justify-content-center">
         <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>Bettter Trading Experience With Spotifyclassie</h1>
-          <h2>jet ano lalagay ko dito</h2>
+          <h1>Bettter Trading Experience</h1>
+          <h2>Silverpayx is an easy and practical cryptocurrency trading application which does not requires much time to do the tasks to make profit online.</h2>
           <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
         </div>
         <div class="col-xl-3 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/logo-only-silverpayx.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -160,12 +163,12 @@
 
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing section-bg">
+    <!-- <section id="pricing" class="pricing section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
           <h2>Blogs</h2>
-          <p>Whats happening in the crypto space? SPOTIFYCLASSIE gives you update to latest news.</p>
+          <p>Whats happening in the crypto space? Silverpayx gives you update to latest news.</p>
         </div>
 
         <div class="container" data-aos="fade-up">
@@ -177,7 +180,8 @@
 				</div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section> -->
+    <!-- End Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
@@ -185,7 +189,7 @@
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p>For further questions, kindly email us at spotifyclassie@gmail.com</p>
+          <p>For further questions, kindly email us at Silverpayx@gmail.com</p>
         </div>
 
         <div class="faq-list">
@@ -203,13 +207,13 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">How to deposit?? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                Spotifyclassie is connected to Stripe and PayPal payment gateway where you can deposit directly. You can also use other cryptocurrency exchanges to deposit. What you need to do is to copy your wallet address.
+                Use other cryptocurrency exchanges or wallet to deposit. What you need to do is to copy your wallet address.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">What are the Crypto Exchange Platforms that can be used for spotifyclassie? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">What are the Crypto Exchange Platforms that can be used for silverpayx? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
                 Binance, Binance.Us, Coinbase, Kraken, Crypto.com, Gemini, KuCoin, Bitstamp, Bittrex, bitFlyer, and trusted external wallets.
@@ -217,14 +221,14 @@
               </div>
             </li>
 
-            <li data-aos="fade-up" data-aos-delay="400">
+            <!-- <li data-aos="fade-up" data-aos-delay="400">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">How to earn from inviting? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                In Spotifyclassie, you can also earn crypto or money by referring friends. What you just need to do is go to your account and copy your referral link then send it to your friends and family.
+                In Silverpayx, you can also earn crypto or money by referring friends. What you just need to do is go to your account and copy your referral link then send it to your friends and family.
                 </p>
               </div>
-            </li>
+            </li> -->
 
             <li data-aos="fade-up" data-aos-delay="500">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">How to withdraw?? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
