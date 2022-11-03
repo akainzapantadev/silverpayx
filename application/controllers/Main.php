@@ -10,6 +10,9 @@ class main extends MY_Controller {
 	public function index(){
 		$this->load->view('index');
 	}
+	public function platform(){
+		$this->load->view('platform');
+	}
 	public function privacyPolicy(){
 		$this->load->view('privacypolicy');
 	}

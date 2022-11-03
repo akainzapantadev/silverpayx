@@ -16,6 +16,8 @@ $route['insert'] = 'main/insert';
 $route['updateCustom'] = 'main/updateCustom';
 $route['updateID'] = 'main/updateID';
 $route['deleteID'] = 'main/deleteID';
+
+$route['platform'] = 'main/platform';
 // ------------------------------------------------------
 // ------------------------------------------------------
 // ---------------- CUSTOM ------------------------------

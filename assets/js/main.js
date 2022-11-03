@@ -320,7 +320,7 @@ function displayFooter(){
   '    <div class="row">'+
   ''+
   '      <div class="col-lg-3 col-md-6 footer-contact">'+
-  '        <h3>Silverpayx</h3>'+
+  '        <h1 class="logo"><a href="main"><img src="assets/img/silverpayx-high-resolution-logo-color-on-transparent-background.png" class="img-fluid animated" alt=""></a></h1>'+
   '        <p>'+
   '          <strong>Email:</strong> silverpayx@gmail.com<br>'+
   '        </p>'+

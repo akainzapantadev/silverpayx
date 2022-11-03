@@ -59,7 +59,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
-      <h1 class="logo"><a href="main"><img src="assets/img/silverpayx-high-resolution-logo-color-on-transparent-background.png" class="img-fluid animated" alt=""></a></h1>
+      <h1 class="logo"><a href="main"><img src="assets/img/silverpayx-high-resolution-logo-white-on-transparent-background.png" class="img-fluid animated" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -67,7 +67,7 @@
         <ul>
           <!-- <li><a class="nav-link scrollto active" href="main">Home</a></li>
           <li><a class="nav-link scrollto" href="blogs">Blogs</a></li> -->
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="platform">Get Started</a></li>
         </ul> <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
 
@@ -79,10 +79,10 @@
 
     <div class="container-fluid" data-aos="fade-up">
       <div class="row justify-content-center">
-        <div class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+        <div class="col-xl-6 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Bettter Trading Experience</h1>
           <h2>Silverpayx is an easy and practical cryptocurrency trading application which does not requires much time to do the tasks to make profit online.</h2>
-          <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
+          <div><a href="platform" class="btn-get-started scrollto">Get Started</a></div>
         </div>
         <div class="col-xl-3 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
           <img src="assets/img/logo-only-silverpayx.png" class="img-fluid animated" alt="">
@@ -100,18 +100,27 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/yellowdesign1.png" class="img-fluid" style="" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Voluptatem dignissimos provident quasi corporis</h3>
+            <h3>Crypto trading made easier</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            SilverxPay is an easy and practical cryptocurrency wallet application which does not requires much time to do the tasks to make profit online.
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li>
+                <i class="bi bi-check-circle"></i>
+                Friendly interface and easy to use so you dont have to learn complicated things and do easy trading on whenever you can.
+              </li>
+              <li>
+                <i class="bi bi-check-circle"></i> 
+                Offers reasonable benefits that only requires minimal time to do task such as mining, playing or simply by investing cryptocurrency.
+              </li>
+              <li>
+                <i class="bi bi-check-circle"></i> 
+                Offers reasonable benefits that only requires minimal time to do task such as mining, 
+                playing or simply by investing cryptocurrency.
+              </li>
             </ul>
             <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
           </div>
@@ -127,34 +136,43 @@
 
         <div class="section-title">
           <h2>Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Silverpayx is an easy and practical cryptocurrency wallet application which does not requires much time to do the tasks to make profit online.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column align-items-lg-center">
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Mining</h4>
+              <p>
+                Players can choose any coin to mine, each coin has a different minimum purchase 
+                amount and a different finance period, so players can purchase it according to their own situation.
+              </p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+              <h4>Contracts</h4>
+              <p>
+								The two-way trading game of purchasing up and selling down foretells the direction of digital money. Users may decide whether 
+								to purchase up or down by analyzing the market's ups and downs over a certain period of time.
+              </p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <h4>Guess the deal</h4>
+                <p>
+                  In this game, you must predict the final three numbers that will be picked at random. 
+                  The participants will have the choice of placing bets ranging in size from modest to large.
+                </p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+              <i class="bx bx-support"></i>
+              <h4>Fast support</h4>
+              <p>Our representatives are always happy to support and help you almost 247 a day.</p>
             </div>
           </div>
           <div class="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/features.svg" alt="" class="img-fluid">
+            <img src="assets/img/yellowdesign.png" alt="" class="img-fluid">
           </div>
         </div>
 
