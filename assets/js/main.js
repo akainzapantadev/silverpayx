@@ -375,7 +375,6 @@ function displayFooter(){
   // '      <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>'+
   // '    </div>'+
   '  </div>'+
-  ''+
   '</div>'+
   '</footer>'
   )

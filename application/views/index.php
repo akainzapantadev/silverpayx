@@ -22,7 +22,7 @@
     <title class="main-color">Silverpayx</title>
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logo_only.png" rel="icon">
   
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -52,6 +52,12 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
+  <script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
 </head>
 
 <body>
@@ -82,7 +88,10 @@
         <div class="col-xl-6 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1>Bettter Trading Experience</h1>
           <h2>Silverpayx is an easy and practical cryptocurrency trading application which does not requires much time to do the tasks to make profit online.</h2>
-          <div><a href="platform" class="btn-get-started scrollto">Get Started</a></div>
+          <div>
+           
+            <a href="platform" class="btn-get-started scrollto">Get Started</a>
+          </div>
         </div>
         <div class="col-xl-3 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
           <img src="assets/img/logo-only-silverpayx.png" class="img-fluid animated" alt="">
@@ -121,6 +130,14 @@
                 Offers reasonable benefits that only requires minimal time to do task such as mining, 
                 playing or simply by investing cryptocurrency.
               </li>
+              <li>
+                <i class="bi bi-check-circle"></i> 
+                <script language="JavaScript" type="text/javascript">
+                TrustLogo("https://silverpayx.com/assets/img/positivessl_trust_seal_sm_124x32.png", "CL1", "none");
+                </script>
+                <a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
+              </li>
+
             </ul>
             <a href="#" class="read-more">Read More <i class="bi bi-long-arrow-right"></i></a>
           </div>
@@ -297,7 +314,6 @@
 
   <!-- ======= Footer ======= -->
   <div class="footer"></div>
-
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <!-- <div id="preloader"></div> -->
 
@@ -318,7 +334,6 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
 
 </html>
