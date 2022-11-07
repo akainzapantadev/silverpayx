@@ -73,7 +73,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
         <ul>
           <!-- <li><a class="nav-link scrollto active" href="main">Home</a></li>
           <li><a class="nav-link scrollto" href="blogs">Blogs</a></li> -->
-          <li><a class="getstarted scrollto" href="main">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="https://www.silverpayx.com">Get Started</a></li>
         </ul> <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
 
@@ -90,7 +90,7 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
           <h2>Silverpayx is an easy and practical cryptocurrency trading application which does not requires much time to do the tasks to make profit online.</h2>
           <div>
            
-            <a href="main" class="btn-get-started scrollto">Get Started</a>
+            <a href="https://www.silverpayx.com" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
         <div class="col-xl-3 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">

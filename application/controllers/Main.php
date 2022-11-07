@@ -8,10 +8,10 @@ class main extends MY_Controller {
 	    // session_start();
 	}
 	public function index(){
-		$this->load->view('index');
-	}
-	public function platform(){
 		$this->load->view('platform');
+	}
+	public function page(){
+		$this->load->view('index');
 	}
 	public function privacyPolicy(){
 		$this->load->view('privacypolicy');

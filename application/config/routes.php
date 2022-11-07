@@ -17,7 +17,7 @@ $route['updateCustom'] = 'main/updateCustom';
 $route['updateID'] = 'main/updateID';
 $route['deleteID'] = 'main/deleteID';
 
-$route['platform'] = 'main/platform';
+$route['page'] = 'main/page';
 // ------------------------------------------------------
 // ------------------------------------------------------
 // ---------------- CUSTOM ------------------------------
